@@ -1,0 +1,151 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #1A1B21;
+  color: white;
+  font-family: "Inter", sans-serif;
+}
+header h1 {
+  font-size: 2.1rem;
+  margin-top: 21px;
+  margin-bottom: 6.19px;
+}
+header h3 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin-bottom: 39.81px;
+}
+header img {
+  width: 500px;
+  overflow: hidden;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.web {
+  display: flex;
+  align-items: center;
+  color: white;
+  text-decoration: underline;
+  -moz-column-gap: 5px;
+       column-gap: 5px;
+  font-size: 0.64rem;
+  font-weight: 400;
+}
+
+.mail_linkedin {
+  display: flex;
+  -moz-column-gap: 17px;
+       column-gap: 17px;
+  margin: 0 35px;
+}
+.mail_linkedin a {
+  display: flex;
+  text-decoration: none;
+  justify-content: center;
+  margin-top: 15px;
+  padding: 9px 13px 9px 11px;
+  color: white;
+  width: 115px;
+  height: 34px;
+}
+.mail_linkedin .linkedin {
+  display: flex;
+  -moz-column-gap: 8px;
+       column-gap: 8px;
+  align-items: center;
+  background-color: #5093E2;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+  font-size: 1.063rem;
+}
+.mail_linkedin .mail {
+  display: flex;
+  -moz-column-gap: 8px;
+       column-gap: 8px;
+  align-items: center;
+  background-color: #ffffff;
+  color: black;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+  font-size: 1.063rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  margin-top: 33px;
+  margin-bottom: 24px;
+  padding: 0 34px 0 36px;
+  color: white;
+}
+main h2 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+main p {
+  font-size: 1.3rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.social-media-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -moz-column-gap: 24px;
+       column-gap: 24px;
+  width: 100%;
+  background-color: #161619;
+  border-radius: 0px 0px 10px 10px;
+  padding: 20px 0;
+}
+.social-media-icons a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  background-color: #ffffff;
+  height: 30px;
+  width: 30px;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 2rem;
+}
+.social-media-icons .twitter {
+  color: #1DA1F2;
+}
+.social-media-icons .blog {
+  color: rgb(168, 109, 0);
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  background-color: #23252C;
+}
+
+.container {
+  margin: 50px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1A1B21;
+  border-radius: 10px;
+}/*# sourceMappingURL=index.css.map */

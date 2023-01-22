@@ -1,0 +1,22 @@
+@import '_config';
+@import 'header';
+@import 'main';
+@import 'footer';
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: $bg-dark;
+    // height: 100vh;
+}
+
+.container {
+    margin: 50px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: $cont-bg;
+    border-radius: 10px;
+}
